@@ -1,1 +1,3 @@
+вставить текстовое описание в стиле markdown для кода 
 
+https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/
